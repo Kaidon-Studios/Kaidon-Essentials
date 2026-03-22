@@ -1,7 +1,8 @@
-
-<img width="512" height="512" alt="minecraft_title" src="https://github.com/user-attachments/assets/05bf63d1-f66d-4fbc-823b-27c14a25886f" />
+<div align="center">
+<img width="120" height="120" alt="minecraft_title" src="https://github.com/user-attachments/assets/05bf63d1-f66d-4fbc-823b-27c14a25886f" />
 
 # KaosEssentials
+</div>
 
 > Modular essentials plugin for Minecraft servers — economy, teleportation, chat, homes, warps, administration and utilities in a single, clean and well-structured plugin.
 
