@@ -30,8 +30,8 @@ KaosEssentials is an essentials plugin built with a focus on clean code, organiz
 
 ## Requirements
 
-- [Vault](https://www.spigotmc.org/resources/vault.34315/) *(optional — required for economy features)*
-- [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) *(optional — required for placeholders)*
+- [Vault](https://www.spigotmc.org/resources/vault.34315/) *(Dependencies — required for economy features)*
+- [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) *(Dependencies — required for placeholders)*
 
 ---
 
