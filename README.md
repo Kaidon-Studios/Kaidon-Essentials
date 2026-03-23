@@ -166,7 +166,7 @@ See the [LICENSE](LICENSE) file for detailed terms of use and restrictions.
 - [Website](https://kaidonstudios.dev)
 - [Discord](https://discord.gg/tVes26GfBk)
 - [Modrinth](https://modrinth.com/plugin/kaidon-essentials)
-- [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/kaidon-essentials)
+- [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/kaos-essentials)
 
 ---
 
